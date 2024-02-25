@@ -1,0 +1,6 @@
+@WallpaperAppBackend_HostAddress = http://localhost:5208
+
+GET {{WallpaperAppBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
