@@ -86,5 +86,18 @@ namespace WallpaperAppBackend.controller
 
             return Ok(existingUser);
         }
+
+        [HttpPost("ResetPasswrod")]
+        public async Task<ActionResult<string?>> ResetUserPassword(int uid, string newPassword)
+        {
+            var checkUserExits = await context.userList.FirstOrDefaultAsync(user=> user.UserId == uid);
+            if (checkUserExits == null)
+            {
+                return NotFound(ModelState);
+            }
+            checkUserExits.Password = newPassword;
+            await context.SaveChangesAsync();
+            return Ok("password changed successfull");
+        }
     }
 }
