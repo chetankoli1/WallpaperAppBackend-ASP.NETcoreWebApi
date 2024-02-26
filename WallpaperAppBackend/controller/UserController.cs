@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WallpaperAppBackend.Context;
@@ -62,6 +63,28 @@ namespace WallpaperAppBackend.controller
             }
             EmailService.SendForgotPasswordMail(checkEmailExits);
             return Ok("Email sent");
+        }
+
+        [HttpPatch("{uid}")]
+        public async Task<ActionResult<User>> UpdateUserAsValues(int uid, JsonPatchDocument<User> patchDocument)
+        {
+            var existingUser = await context.userList.FirstOrDefaultAsync(User => User.UserId == uid);
+
+            if (existingUser == null)
+            {
+                return NotFound();
+            }
+
+            patchDocument.ApplyTo(existingUser);
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            await context.SaveChangesAsync();
+
+            return Ok(existingUser);
         }
     }
 }

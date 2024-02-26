@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code vs projects\\WallpaperAppBackend\\WallpaperAppBackend\\WallpaperAppBackend.csproj": {}
+    "D:\\Apis\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\WallpaperAppBackend.csproj": {}
   },
   "projects": {
-    "D:\\code vs projects\\WallpaperAppBackend\\WallpaperAppBackend\\WallpaperAppBackend.csproj": {
+    "D:\\Apis\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\WallpaperAppBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code vs projects\\WallpaperAppBackend\\WallpaperAppBackend\\WallpaperAppBackend.csproj",
+        "projectUniqueName": "D:\\Apis\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\WallpaperAppBackend.csproj",
         "projectName": "WallpaperAppBackend",
-        "projectPath": "D:\\code vs projects\\WallpaperAppBackend\\WallpaperAppBackend\\WallpaperAppBackend.csproj",
-        "packagesPath": "C:\\Users\\sk777\\.nuget\\packages\\",
-        "outputPath": "D:\\code vs projects\\WallpaperAppBackend\\WallpaperAppBackend\\obj\\",
+        "projectPath": "D:\\Apis\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\WallpaperAppBackend.csproj",
+        "packagesPath": "C:\\Users\\sez5964\\.nuget\\packages\\",
+        "outputPath": "D:\\Apis\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sk777\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sez5964\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,12 +38,19 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.2, )"

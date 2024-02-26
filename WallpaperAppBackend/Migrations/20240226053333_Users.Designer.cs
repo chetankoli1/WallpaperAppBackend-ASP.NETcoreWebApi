@@ -11,7 +11,7 @@ using WallpaperAppBackend.Context;
 namespace WallpaperAppBackend.Migrations
 {
     [DbContext(typeof(WallpaperDBcontext))]
-    [Migration("20240225160548_Users")]
+    [Migration("20240226053333_Users")]
     partial class Users
     {
         /// <inheritdoc />
