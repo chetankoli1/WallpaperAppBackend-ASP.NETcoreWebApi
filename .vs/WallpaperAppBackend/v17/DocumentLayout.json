@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|c:\\users\\devel\\onedrive\\desktop\\spring files\\wallpaperappbackend-asp.netcorewebapi\\wallpaperappbackend\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|solutionrelative:wallpaperappbackend\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|c:\\users\\devel\\onedrive\\desktop\\spring files\\wallpaperappbackend-asp.netcorewebapi\\wallpaperappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|solutionrelative:wallpaperappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|c:\\users\\devel\\onedrive\\desktop\\spring files\\wallpaperappbackend-asp.netcorewebapi\\wallpaperappbackend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|solutionrelative:wallpaperappbackend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|c:\\users\\devel\\onedrive\\desktop\\spring files\\wallpaperappbackend-asp.netcorewebapi\\wallpaperappbackend\\context\\wallpaperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|solutionrelative:wallpaperappbackend\\context\\wallpaperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|c:\\users\\devel\\onedrive\\desktop\\spring files\\wallpaperappbackend-asp.netcorewebapi\\wallpaperappbackend\\settings\\mainsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|solutionrelative:wallpaperappbackend\\settings\\mainsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|c:\\users\\devel\\onedrive\\desktop\\spring files\\wallpaperappbackend-asp.netcorewebapi\\wallpaperappbackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5B93C2-DB91-4678-A11E-00C2CB22BA02}|WallpaperAppBackend\\WallpaperAppBackend.csproj|solutionrelative:wallpaperappbackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\controller\\UserController.cs",
+              "RelativeDocumentMoniker": "WallpaperAppBackend\\controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\controller\\UserController.cs",
+              "RelativeToolTip": "WallpaperAppBackend\\controller\\UserController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:42:51.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "WallpaperAppBackend\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\Services\\EmailService.cs",
+              "RelativeToolTip": "WallpaperAppBackend\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:42:51.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainSettings.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\settings\\MainSettings.cs",
+              "RelativeDocumentMoniker": "WallpaperAppBackend\\settings\\MainSettings.cs",
+              "ToolTip": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\settings\\MainSettings.cs",
+              "RelativeToolTip": "WallpaperAppBackend\\settings\\MainSettings.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:42:51.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\Program.cs",
+              "RelativeDocumentMoniker": "WallpaperAppBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\Program.cs",
+              "RelativeToolTip": "WallpaperAppBackend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:42:51.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WallpaperDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\Context\\WallpaperDBcontext.cs",
+              "RelativeDocumentMoniker": "WallpaperAppBackend\\Context\\WallpaperDBcontext.cs",
+              "ToolTip": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\Context\\WallpaperDBcontext.cs",
+              "RelativeToolTip": "WallpaperAppBackend\\Context\\WallpaperDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:42:51.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WallpaperAppBackend\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\devel\\OneDrive\\Desktop\\spring files\\WallpaperAppBackend-ASP.NETcoreWebApi\\WallpaperAppBackend\\Model\\User.cs",
+              "RelativeToolTip": "WallpaperAppBackend\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:42:51.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "WallpaperAppBackend-ASP.NETcoreWebApi.csproj",
+      "use": "@vercel/dotnet"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/api/$1"
+    }
+  ]
+}
