@@ -4,6 +4,7 @@ using WallpaperAppBackend.Model;
 
 namespace WallpaperAppBackend.Services
 {
+//email update
     public class EmailService
     {
         public static void SendForgotPasswordMail(User user)
